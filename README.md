@@ -1,24 +1,24 @@
 # Mark-Tech
 
 # Installation
-- pkg update**
+- pkg update
 
-`$ pip2 install mechanize`
+- pip2 install mechanize
 
-`$ pkg upgrade`
+- pkg upgrade
 
-`$ pip2 install requests`
+- pip2 install requests
 
-`$ pkg install python`
+- pkg install python
 
-`$ pkg install python2`
+- pkg install python2
 
-`$ pip2 install bs4`
+- pip2 install bs4
 
-`$ pkg install git`
+- pkg install git
 
-`$ git clone https://github.com/GUPTA-SHAKEL/Mark-Tech.git`
+- git clone https://github.com/GUPTA-SHAKEL/Mark-Tech.git
 
-`$ cd MARK-BEST999`
+- cd MARK-BEST999
 
-`$ python2 PAID.py`
+- python2 PAID.py
