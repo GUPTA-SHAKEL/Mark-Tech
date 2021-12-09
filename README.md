@@ -1,6 +1,7 @@
 # Mark-Tech
 
 # Installation
+```
 - pkg update
 
 - pip2 install mechanize
@@ -22,3 +23,4 @@
 - cd MARK-BEST999
 
 - python2 PAID.py
+```
