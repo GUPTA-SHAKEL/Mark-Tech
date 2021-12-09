@@ -2,7 +2,7 @@
 
 # Installation
 ```
-** pkg update**
+**pkg update**
 
 - pip2 install mechanize
 
