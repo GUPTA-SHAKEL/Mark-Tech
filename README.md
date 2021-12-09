@@ -15,7 +15,10 @@
 - pkg install python2
 
 - pip2 install bs4
+```
 
+
+# Run script
 - pkg install git
 
 - git clone https://github.com/GUPTA-SHAKEL/Mark-Tech.git
@@ -23,4 +26,3 @@
 - cd MARK-BEST999
 
 - python2 PAID.py
-```
