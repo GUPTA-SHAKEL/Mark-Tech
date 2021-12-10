@@ -1,8 +1,19 @@
+<img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/GUPTA-SHAKEL.gif" width="120" height="120" align="left">
+<center>
+  
+  
+ 
+   ##  MY SOCIAL MEDIA : <br>
 
-____Programming Web Developer____
+<a href="https://Instagram.com/mark.cornel97" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
+<a href="wa.me/+2347013107449"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/WhatsApp.png" alt="alt text" width="25" height="25"></a>
+<a href="https://www.facebook.com/Clinton.ngozi68" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MARK-TECH"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+  
+____Programming And Memes____
 
 CONTACT WITH <a href="https://github.com/GUPTA-SHAKEL"><b>MARK-CORNEL </a> </br><br>
-<img src="https://github.com/GUPTA-SHAKEL/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
+<img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
 <p>ngozic328@gmail.com</p>  <br> <br> 
 
 
