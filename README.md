@@ -62,7 +62,7 @@ $ git clone https://github.com/GUPTA-SHAKEL/Mark-Tech.git
 ```python2
 $ cd Mark-Tech
 $ git pull
-$ python2 TECH.py
+$ python2 mark.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
